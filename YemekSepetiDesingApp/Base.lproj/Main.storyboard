@@ -19,7 +19,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <searchBar contentMode="redraw" searchBarStyle="minimal" placeholder="Mağaza, kategori veya ürün arayın" translatesAutoresizingMaskIntoConstraints="NO" id="3Lm-pq-1gE">
-                                <rect key="frame" x="10" y="97" width="351" height="51"/>
+                                <rect key="frame" x="10" y="96.5" width="351" height="51"/>
                                 <textInputTraits key="textInputTraits"/>
                             </searchBar>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E5x-7D-drb">
